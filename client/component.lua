@@ -170,7 +170,7 @@ AddEventHandler("Core:Shared:Ready", function()
 
 		Targeting.Zones:AddBox(
 			"prison-juice",
-			"cup",
+			"mug-hot",
 			Config.Cafeteria.Juice.coords,
 			Config.Cafeteria.Juice.length,
 			Config.Cafeteria.Juice.width,
