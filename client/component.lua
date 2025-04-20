@@ -67,7 +67,7 @@ AddEventHandler("Core:Shared:Ready", function()
 		)
 
 		Targeting.Zones:AddBox(
-			string.format("bb-retreive", aptId),
+			string.format("bb-retreive"),
 			"hands-holding-hand",
 			Config.Retreival.coords,
 			Config.Retreival.length,
